@@ -5,3 +5,58 @@
     margin-bottom: 20px;
     margin: 0 auto;
 }
+
+.navar{
+    color: rgb(12, 38, 112);
+    padding: 10px 20px;
+    border-right: 1px solid #357abd;
+    text-decoration: none;
+}
+
+.this{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #051749;
+    color:  #357abd;
+    padding: 10px 20px;
+    border-right: 1px solid #051749;
+    text-decoration: none;
+}
+ .container {
+    background-color: #87ceeb;
+    padding: 50px;
+    border-radius: 25px;
+    border: 4px solid #2c3e50;
+    display: inline-block;
+    margin: 40px;
+    margin-left: auto;
+    }
+    
+    .form-group { 
+        margin-bottom: 15px; 
+    }
+
+    label { 
+    font-weight: bold; 
+    margin-right: 10px; 
+    }
+
+    input { 
+    padding: 5px; 
+    width: 200px; 
+    }
+    
+    .main-layout { 
+    display: flex; 
+    align-items: center; 
+    gap: 20px; 
+    }
+    
+    .btn-buscar {
+    padding: 20px 30px;
+    background-color: white;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-weight: bold;
+    }
